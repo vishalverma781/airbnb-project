@@ -9,14 +9,21 @@
 - 4th : Install all package - Type command in terminal -> npm i
 - 5th : Data initialize - Type command in terminal -> node init/index.js
 - 6th : Run server - Type command in terminal -> node app.js
+
 **Technologies used :**
   
 HTML
+
 CSS
+
 JAVASCRIPT
+
 NODE.JS
+
 EXPRESS
+
 MONGODB
+
 EJS
 
 **Author :**
