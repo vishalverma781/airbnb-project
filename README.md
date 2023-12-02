@@ -1,6 +1,6 @@
 **MAJOR PROJECT (WANDERLUST)**
 
-**Description**
+**Description:-**
 
 **How to use**
 - 1st : Click CODE button and download zip file
